@@ -48,6 +48,8 @@ PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use
     * Username is "admin"
     * Password is the password you have set during the installation
 
+* Photos are stored in /home/yunohost.app/photoprism/photos/
+
 ## Documentation and resources
 
 * Official app website: <https://photoprism.app>
